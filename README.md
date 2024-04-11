@@ -1,2 +1,0 @@
-# aquaduct
-Software Pipelining

@@ -1,0 +1,4 @@
+include README.rst
+#include aquaduct/data/*
+
+prune build
