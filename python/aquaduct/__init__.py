@@ -1,2 +1,2 @@
-__all__ = ["logging","utils"]
+__all__ = ["logging","utils","aquaduct"]
 __version__ = "1.0.0"
